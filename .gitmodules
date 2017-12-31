@@ -1,0 +1,3 @@
+[submodule "dejan7"]
+	path = dejan7
+	url = https://github.com/dejbug/dejan7.git
